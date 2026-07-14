@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,9 +22,22 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
