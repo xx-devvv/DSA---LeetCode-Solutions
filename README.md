@@ -40,4 +40,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
