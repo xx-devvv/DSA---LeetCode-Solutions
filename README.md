@@ -1,5 +1,5 @@
 # DSA---LeetCode-Solutions
-Collection of LeetCode questions to ace the coding interview! 
+Solution pool and daily progress tracker for DSA journey
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
