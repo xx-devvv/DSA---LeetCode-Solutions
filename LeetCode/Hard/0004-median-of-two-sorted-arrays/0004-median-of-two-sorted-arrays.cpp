@@ -7,7 +7,7 @@ public:
             ans.emplace_back(nums1[i]);
         }
         for( int j = 0 ; i < nums1.size() + nums2.size() ; i++, j++){
-            ans.push_back(nums2[j]);
+            ans.emplace_back(nums2[j]);
         }
         sort(ans.begin(),ans.end());
         int n = ans.size();
