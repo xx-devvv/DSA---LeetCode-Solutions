@@ -73,6 +73,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ Solution pool and daily progress tracker for DSA journey
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -110,6 +112,7 @@ Solution pool and daily progress tracker for DSA journey
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Simulation
