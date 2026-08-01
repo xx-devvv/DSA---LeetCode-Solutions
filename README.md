@@ -20,6 +20,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0628-maximum-product-of-three-numbers](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1260-shift-2d-grid](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -92,6 +93,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0342-power-of-four](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
