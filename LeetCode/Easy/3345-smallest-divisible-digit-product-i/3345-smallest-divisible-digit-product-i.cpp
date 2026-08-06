@@ -10,7 +10,7 @@ int isDiv(int n, int t){
 class Solution {
 public:
     int smallestNumber(int n, int t) {
-       for(int i = n ; ;n++){
+       for(; ;n++){
             if(isDiv(n,t)) return n;
        }
        return 0;
