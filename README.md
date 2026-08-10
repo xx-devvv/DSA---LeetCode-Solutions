@@ -13,6 +13,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0018-4sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0049-group-anagrams](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
@@ -45,6 +46,7 @@ Solution pool and daily progress tracker for DSA journey
 | ------- | ------- |
 | [0001-two-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
+| [0049-group-anagrams](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -86,6 +88,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0015-3sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -149,6 +152,7 @@ Solution pool and daily progress tracker for DSA journey
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
+| [0049-group-anagrams](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
