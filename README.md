@@ -47,6 +47,7 @@ Solution pool and daily progress tracker for DSA journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -156,6 +157,7 @@ Solution pool and daily progress tracker for DSA journey
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
@@ -208,6 +210,7 @@ Solution pool and daily progress tracker for DSA journey
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Heap (Priority Queue)
