@@ -11,8 +11,8 @@ public:
         for(int right = 0; right < nums.size(); right++) {
 
             while(mp[nums[right]] > 0) {
-                mp[nums[left]]--;
                 sum -= nums[left];
+                mp[nums[left]]--;
                 left++;
             }
 
