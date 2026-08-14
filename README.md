@@ -59,6 +59,7 @@ Solution pool and daily progress tracker for DSA journey
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ Solution pool and daily progress tracker for DSA journey
 | [2351-first-letter-to-appear-twice](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Simulation
@@ -213,6 +215,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0003-longest-substring-without-repeating-characters](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
