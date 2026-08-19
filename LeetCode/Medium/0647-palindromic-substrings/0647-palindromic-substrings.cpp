@@ -1,4 +1,4 @@
-bool isPalindrome(string st){
+bool isPalindrome(string &st){
     int left = 0 , right = st.size() -1;
     while(left<right){
         if(st[left] != st[right]){
