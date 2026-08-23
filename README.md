@@ -143,6 +143,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0066-plus-one](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
@@ -164,6 +165,7 @@ Solution pool and daily progress tracker for DSA journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
@@ -192,6 +194,7 @@ Solution pool and daily progress tracker for DSA journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [1260-shift-2d-grid](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
