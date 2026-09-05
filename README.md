@@ -54,6 +54,7 @@ Solution pool and daily progress tracker for DSA journey
 | [3708-longest-fibonacci-subarray](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3708-longest-fibonacci-subarray/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ Solution pool and daily progress tracker for DSA journey
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
