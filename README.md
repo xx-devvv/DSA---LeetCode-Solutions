@@ -206,6 +206,7 @@ Solution pool and daily progress tracker for DSA journey
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
