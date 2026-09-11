@@ -13,7 +13,7 @@ public:
                 count++;
                 i++;
             }
-            total+=summ(count);
+            if(count != 0) total+=summ(count);
         }
         return total;
     }
