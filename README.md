@@ -47,6 +47,7 @@ Solution pool and daily progress tracker for DSA journey
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2348-number-of-zero-filled-subarrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -118,6 +119,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0367-valid-perfect-square](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Math
@@ -274,6 +277,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0713-subarray-product-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1695-maximum-erasure-value/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Heap (Priority Queue)
