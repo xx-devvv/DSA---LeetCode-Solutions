@@ -62,6 +62,7 @@ Solution pool and daily progress tracker for DSA journey
 | [3708-longest-fibonacci-subarray](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3708-longest-fibonacci-subarray/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3895-count-digit-appearances](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
@@ -205,6 +206,7 @@ Solution pool and daily progress tracker for DSA journey
 | [3658-gcd-of-odd-and-even-sums](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3895-count-digit-appearances](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
