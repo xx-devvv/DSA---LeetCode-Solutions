@@ -16,6 +16,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0049-group-anagrams](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
@@ -134,6 +135,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0016-3sum-closest](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -347,4 +349,8 @@ Solution pool and daily progress tracker for DSA journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0357-count-numbers-with-unique-digits/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
