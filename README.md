@@ -28,6 +28,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
@@ -108,6 +109,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0088-merge-sorted-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
@@ -126,6 +128,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0162-find-peak-element](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
@@ -313,6 +316,7 @@ Solution pool and daily progress tracker for DSA journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
@@ -359,4 +363,12 @@ Solution pool and daily progress tracker for DSA journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
