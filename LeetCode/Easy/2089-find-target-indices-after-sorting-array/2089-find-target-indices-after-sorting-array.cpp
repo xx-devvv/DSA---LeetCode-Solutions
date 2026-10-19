@@ -1,0 +1,17 @@
+class Solution {
+public:
+    vector<int> targetIndices(vector<int>& nums, int target) {
+        int count = 0, index =0;
+        vector<int>ans;
+        for(int i = 0 ; i<nums.size() ; i++){
+            if(nums[i] == target) count++;
+            if(nums[i]<target)index++;
+        }
+        if(count == 0) return ans;
+        for(int i = 0 ; i<count; i++){
+            ans.push_back(index);
+            index++;
+        }
+        return ans;
+    }
+};
