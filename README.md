@@ -55,6 +55,7 @@ Solution pool and daily progress tracker for DSA journey
 | [2149-rearrange-array-elements-by-sign](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2326-spiral-matrix-iv](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -279,6 +280,7 @@ Solution pool and daily progress tracker for DSA journey
 | [2149-rearrange-array-elements-by-sign](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2326-spiral-matrix-iv/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -304,6 +306,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0240-search-a-2d-matrix-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
+| [2326-spiral-matrix-iv](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2965-find-missing-and-repeated-values/) | Easy |
 ## Stack
@@ -407,5 +410,6 @@ Solution pool and daily progress tracker for DSA journey
 | [1669-merge-in-between-linked-lists](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1669-merge-in-between-linked-lists/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
