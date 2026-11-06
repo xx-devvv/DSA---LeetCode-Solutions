@@ -55,6 +55,7 @@ Solution pool and daily progress tracker for DSA journey
 | [2089-find-target-indices-after-sorting-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -230,6 +231,7 @@ Solution pool and daily progress tracker for DSA journey
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2409-count-days-spent-together](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
@@ -271,6 +273,7 @@ Solution pool and daily progress tracker for DSA journey
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [2409-count-days-spent-together](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
@@ -318,6 +321,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0240-search-a-2d-matrix-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2965-find-missing-and-repeated-values/) | Easy |
