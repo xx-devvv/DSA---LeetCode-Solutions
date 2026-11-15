@@ -53,6 +53,7 @@ Solution pool and daily progress tracker for DSA journey
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1695-maximum-erasure-value/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -208,6 +209,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0413-arithmetic-slices](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0413-arithmetic-slices/) | Medium |
 | [0647-palindromic-substrings](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
@@ -227,6 +229,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0560-subarray-sum-equals-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
@@ -253,6 +256,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0877-stone-game](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1513-number-of-substrings-with-only-1s/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
