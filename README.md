@@ -69,6 +69,7 @@ Solution pool and daily progress tracker for DSA journey
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2326-spiral-matrix-iv](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2326-spiral-matrix-iv/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -193,6 +194,7 @@ Solution pool and daily progress tracker for DSA journey
 | [1471-the-k-strongest-values-in-an-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2785-sort-vowels-in-a-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -219,6 +221,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0410-split-array-largest-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
