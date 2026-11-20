@@ -75,6 +75,7 @@ Solution pool and daily progress tracker for DSA journey
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -198,6 +199,7 @@ Solution pool and daily progress tracker for DSA journey
 | [2785-sort-vowels-in-a-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2785-sort-vowels-in-a-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
@@ -213,6 +215,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0877-stone-game](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
