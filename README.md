@@ -265,6 +265,7 @@ Solution pool and daily progress tracker for DSA journey
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
