@@ -79,6 +79,7 @@ Solution pool and daily progress tracker for DSA journey
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3708-longest-fibonacci-subarray](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3708-longest-fibonacci-subarray/) | Medium |
@@ -281,6 +282,7 @@ Solution pool and daily progress tracker for DSA journey
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3227-vowels-game-in-a-string/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -298,6 +300,7 @@ Solution pool and daily progress tracker for DSA journey
 | [0258-add-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -399,6 +402,7 @@ Solution pool and daily progress tracker for DSA journey
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +423,7 @@ Solution pool and daily progress tracker for DSA journey
 | ------- | ------- |
 | [0204-count-primes](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
