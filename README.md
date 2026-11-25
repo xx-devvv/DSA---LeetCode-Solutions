@@ -248,6 +248,7 @@ Solution pool and daily progress tracker for DSA journey
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0089-gray-code](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0204-count-primes](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
@@ -411,6 +412,7 @@ Solution pool and daily progress tracker for DSA journey
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
@@ -461,6 +463,7 @@ Solution pool and daily progress tracker for DSA journey
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/xx-devvv/DSA---LeetCode-Solutions/tree/main/LeetCode/Medium/0357-count-numbers-with-unique-digits/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
